@@ -1,0 +1,4 @@
+Project Title: Content Generation System:
+Name: Meemansha Acharya
+Description: In this project, you will build a system that automatically converts long-form podcast videos into short, topic-focused clips suitable for short-form platforms such as reels and shorts. The system takes a full podcast episode as input, identifies meaningful segments, and generates short clips along with titles, descriptions, topic labels, and relevance scores.
+The focus of this project is on applying machine learning techniques—such as NLP, audio analysis, and basic video processing—to segment content, rank useful clips, and analyze results through data visualization. You are not expected to build a production-level video editor; instead, the emphasis is on pipeline design, model reasoning, evaluation, and clear visual analysis of outputs.
